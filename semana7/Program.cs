@@ -1,3 +1,4 @@
+ 
 ﻿
 //=======================================================
 //Tarea de pilas y colas
@@ -10,9 +11,7 @@ new TorresDeHanoi();
 
 
 // Ejemplo de uso de pilas - clases 
-
-
-
+ 
 //Stack<string> values = new Stack<string>();
 //Stack<string> valuesDeleted = new Stack<string>();
 //int[] numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
@@ -48,3 +47,4 @@ new TorresDeHanoi();
 //new GameStack();
 
 
+ 
