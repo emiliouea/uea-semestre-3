@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacunacionCovid", "..\Vacun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraductorBasico", "..\TraductorBasico\TraductorBasico.csproj", "{9538D8D5-B20A-4D56-8CFC-AFFC26BB90A6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "practico-experimental", "practico-experimental", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorneoFutbolManager", "..\TorneoFutbolManager\TorneoFutbolManager.csproj", "{EF9F4370-734E-426F-942F-A9A71E54C635}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,9 +61,16 @@ Global
 		{9538D8D5-B20A-4D56-8CFC-AFFC26BB90A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9538D8D5-B20A-4D56-8CFC-AFFC26BB90A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9538D8D5-B20A-4D56-8CFC-AFFC26BB90A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9F4370-734E-426F-942F-A9A71E54C635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9F4370-734E-426F-942F-A9A71E54C635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9F4370-734E-426F-942F-A9A71E54C635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9F4370-734E-426F-942F-A9A71E54C635}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EF9F4370-734E-426F-942F-A9A71E54C635} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1D89896F-9655-4975-9AF0-4A815944821B}
