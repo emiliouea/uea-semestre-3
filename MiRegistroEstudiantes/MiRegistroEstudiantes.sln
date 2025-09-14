@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "practico-experimental", "pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorneoFutbolManager", "..\TorneoFutbolManager\TorneoFutbolManager.csproj", "{EF9F4370-734E-426F-942F-A9A71E54C635}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogoRevistas", "..\CatalogoRevistas\CatalogoRevistas.csproj", "{DF80A5BE-2A03-48C9-AA7B-A5480213CFCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{EF9F4370-734E-426F-942F-A9A71E54C635}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF9F4370-734E-426F-942F-A9A71E54C635}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF9F4370-734E-426F-942F-A9A71E54C635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF80A5BE-2A03-48C9-AA7B-A5480213CFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF80A5BE-2A03-48C9-AA7B-A5480213CFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF80A5BE-2A03-48C9-AA7B-A5480213CFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF80A5BE-2A03-48C9-AA7B-A5480213CFCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
