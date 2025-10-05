@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorneoFutbolManager", "..\T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogoRevistas", "..\CatalogoRevistas\CatalogoRevistas.csproj", "{DF80A5BE-2A03-48C9-AA7B-A5480213CFCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaVuelos", "..\SistemaVuelos\SistemaVuelos.csproj", "{7B3F3EB0-F331-4618-B246-2E218AAC3785}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{DF80A5BE-2A03-48C9-AA7B-A5480213CFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF80A5BE-2A03-48C9-AA7B-A5480213CFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF80A5BE-2A03-48C9-AA7B-A5480213CFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3F3EB0-F331-4618-B246-2E218AAC3785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3F3EB0-F331-4618-B246-2E218AAC3785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3F3EB0-F331-4618-B246-2E218AAC3785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3F3EB0-F331-4618-B246-2E218AAC3785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
